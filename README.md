@@ -1,2 +1,2 @@
 # Weight-Converter
-A simple weight-conversion app built using js, html and css
+A simple weight-conversion app which converts pounds(lbs) to ounces, kilorgrams, grams and cups. 
